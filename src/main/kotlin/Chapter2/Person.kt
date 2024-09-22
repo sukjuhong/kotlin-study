@@ -1,8 +1,6 @@
 package Chapter2
 
 /**
- * 클래스와 프로퍼티
- *
  * In java
  * ```java
  * public class Person {
